@@ -1,18 +1,20 @@
 # project structure MincaAI Agent App
-
 app/
-    -`.env`
-    -`requirements.txt`
-    -`README.md`
-    -`app.py`
-    -`config.py`
-    -`.streamlit/config.toml`
- tools/
-        -`__init__.py`
-        -`research_tools.py`
- agent/
-        -`__init__.py`
-        -`agent_setup.py`
+│   ├── .env
+│   ├── requirements.txt
+│   ├── README.md
+│   ├── app.py
+│   ├── config.py
+│   ├── .streamlit/
+│       ├── config.toml
+│
+├── tools/
+│   ├── __init__.py
+│   ├── research_tools.py
+│
+├── agent/
+│   ├── __init__.py
+│   ├── agent_setup.py
 
 ## Installation
 1. git clone repo : https://github.com/Haole3435/MincaAI.git
