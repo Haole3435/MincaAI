@@ -5,6 +5,7 @@ app/
 │   ├── requirements.txt
 │   ├── README.md
 │   ├── app.py
+│   ├── web_ui.py
 │   ├── config.py
 │   ├── .streamlit/
 │       ├── config.toml
