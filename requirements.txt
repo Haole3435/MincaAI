@@ -1,0 +1,7 @@
+langchain
+langchain_openai
+python-dotenv
+requests
+python-dateutil
+langchain_community
+streamlit>=1.32.0
